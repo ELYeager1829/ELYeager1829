@@ -13,10 +13,10 @@ Tools: OpenAI, Lovable, VS code, HeidiSQL ,Netbeans Apache , Notepad++
 Design: Figma | ChatGPT | 
 
 ## 📌 Featured Projects  
-🔹  Mern-stack course
-🔹  Tiny Steps web app
-🔹  Campus Connect
-🔹  Smart Travel app
+🔹  Mern-stack course<br/>
+🔹  Tiny Steps web app<br/>
+🔹  Campus Connect<br/>
+🔹  Smart Travel app<br/>
 
 __________________________________________________________________________________________
 <h1>A Bit About Me</h1>
