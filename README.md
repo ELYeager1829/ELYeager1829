@@ -14,6 +14,9 @@ Design: Figma | ChatGPT |
 
 ## 📌 Featured Projects  
 🔹  Mern-stack course
+🔹  Tiny Steps web app
+🔹  Campus Connect
+🔹  Smart Travel app
 
 __________________________________________________________________________________________
 <h1>A Bit About Me</h1>
