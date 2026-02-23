@@ -21,7 +21,7 @@ Design: Figma | ChatGPT |
 __________________________________________________________________________________________
 <h1>A Bit About Me</h1>
 <ul>
-  <li>🔭Im a lover of Astronomy🪐</li>
+  <li>🔭A lover of Astronomy🪐</li>
   <li>☕️A coffee person</li>
   <li>🎌Into anime - Summertime Rendering is my Favorite</li>
   <li>🎨Creative content enthusiast : <a href="https://pin.it/33mdfTdgJ">Pinterest</a></li>
